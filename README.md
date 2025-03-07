@@ -15,5 +15,4 @@ Contributions are welcome here at this github, please read the contribution guid
 
 
 ## License
-All code in this repository is licenced under the MIT license, which can be found[Here]
-(https://choosealicense.com/licenses/mit/#) [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+All code in this repository is licenced under the MIT license, which can be found[Here](https://choosealicense.com/licenses/mit/#) [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
